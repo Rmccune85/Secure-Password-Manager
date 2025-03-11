@@ -4,6 +4,11 @@ A simple, encrypted password manager built with Python. This project securely st
 
 ---
 
+## 🔗 Download
+🔽 **[Download Secure Password Manager (.exe)](https://github.com/Rmccune85/Secure-Password-Manager/releases)**
+
+---
+
 ## 📌 Features
 - **AES encryption** for password security 🔒
 - **Master password authentication** to restrict access 🔑
@@ -87,7 +92,7 @@ Want to improve this project? Contributions are welcome! Fork the repo and submi
 
 ## 📬 Contact
 For any questions or feedback, reach out via:
-📧 Email: [mccu31@gmail.com.com](mailto:mccu31@gmail.com)  
+📧 Email: [mccu31@gmail.com](mailto:mccu31@gmail.com)  
 🐙 GitHub: [YourGitHubProfile](https://github.com/Rmccune85)  
 
 ---
