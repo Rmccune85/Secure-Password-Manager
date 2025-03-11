@@ -89,10 +89,10 @@ Want to improve this project? Contributions are welcome! Fork the repo and submi
 
 ## 📬 Contact
 For any questions or feedback, reach out via:
-📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
-🐙 GitHub: [YourGitHubProfile](https://github.com/YourGitHubUsername)  
+📧 Email: [mccu31@gmail.com.com](mailto:mccu31@gmail.com)  
+🐙 GitHub: [YourGitHubProfile](https://github.com/Rmccune85)  
 
 ---
 
-### **🔗 [View on GitHub](https://github.com/YourGitHubUsername/Secure-Password-Manager)**
+### **🔗 [View on GitHub](https://github.com/Rmccune85/Secure-Password-Manager)**
 
