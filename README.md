@@ -93,9 +93,9 @@ Want to improve this project? Contributions are welcome! Fork the repo and submi
 ## 📬 Contact
 For any questions or feedback, reach out via:
 📧 Email: [mccu31@gmail.com](mailto:mccu31@gmail.com)  
-🐙 GitHub: [YourGitHubProfile](https://github.com/Rmccune85)  
+🐙 GitHub: [Rmccune85](https://github.com/Rmccune85)  
 
 ---
 
-### **🔗 [View on GitHub](https://github.com/Rmccune85/Secure-Password-Manager)**
+### **🔗 [Rmccune85](https://github.com/Rmccune85/Secure-Password-Manager)**
 
