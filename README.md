@@ -1,5 +1,3 @@
-# Secure-Password-Manager
-A Python-based encrypted password manager using AES encryption and SQLite. Stores passwords securely with a master password.
 # Secure Password Manager 🔐
 
 A simple, encrypted password manager built with Python. This project securely stores and retrieves passwords using AES encryption and an SQLite database, ensuring your sensitive data remains safe.
